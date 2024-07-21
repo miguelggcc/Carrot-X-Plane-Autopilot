@@ -4,7 +4,7 @@
 This project consists of an autopilot for X-Plane to follow a flight plan defined by waypoints, including both lateral and vertical guidance. A graphical interface displays the aircraft's position and route.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0245588e-92af-4ddb-bafb-4d6c802d86d2" width="750">
+  <img src="https://github.com/user-attachments/assets/89841e74-f797-4f1d-9754-2c81df20921d" width="750">
 </p>
 
 ## Features
