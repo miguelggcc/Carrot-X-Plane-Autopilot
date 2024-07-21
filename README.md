@@ -20,3 +20,4 @@ This project consists of an autopilot for X-Plane to follow a flight plan define
 - Ducard, G. J. (2009). *Fault-tolerant flight control and guidance systems*.
 - Kothari, M. (2011). *Algorithms for Motion Planning and Target Capturing*.
 - Spitzer, C., Ferrell, U., & Ferrell, T. (2017). *Digital avionics handbook*.
+- L. Cantoni, "X-Pi: A Java-based autopilot for X-Plane," GitHub repository, 2021. Available: https://github.com/luizcantoni/x-pi
