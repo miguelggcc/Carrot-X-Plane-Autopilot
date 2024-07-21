@@ -9,7 +9,7 @@ This project consists of an autopilot for X-Plane to follow a flight plan define
 
 ## Features
 
-* **Lateral Guidance:** Implements the ‘Carrot Algorithm’, where the aircraft follows a moving reference point (the ‘carrot’) along the desired path by providing the necessary lateral acceleration and roll angle to minimize the cross-track error.
+* **Lateral Guidance:** Implements the ‘Carrot-Chasing Algorithm’, where the aircraft follows a moving reference point (the ‘carrot’) along the desired path by providing the necessary lateral acceleration and roll angle to minimize the cross-track error.
 
 * **Vertical Guidance:** Uses a double PID control loop for elevator actions, maintaining a constant climb speed and a cruise altitude of 2000 ft.
 
